@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS Word Spelling Test - 雅思单词拼写测试</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Welcome Screen -->
+        <div id="welcomeScreen" class="screen active">
+            <h1>🎧 IELTS Word Spelling Test</h1>
+            <h2>雅思听力单词拼写测试</h2>
+            <div class="info-box">
+                <p><strong>测试说明：</strong></p>
+                <ul>
+                    <li>每次测试包含 <strong>20个单词</strong></li>
+                    <li>每个单词 <strong>5分</strong>，总分 <strong>100分</strong></li>
+                    <li>点击 🔊 图标听单词发音</li>
+                    <li>在文本框中输入正确的拼写</li>
+                    <li>点击"提交"获得即时反馈</li>
+                </ul>
+            </div>
+            <div class="input-group">
+                <label for="studentId">请输入您的学号/ID：</label>
+                <input type="text" id="studentId" placeholder="例如：2024001" required>
+            </div>
+            <div class="input-group">
+                <label for="testNumber">测试次数：</label>
+                <select id="testNumber">
+                    <option value="1">第1次测试</option>
+                    <option value="2">第2次测试</option>
+                    <option value="3">第3次测试</option>
+                    <option value="4">第4次测试</option>
+                    <option value="5">第5次测试</option>
+                    <option value="6">第6次测试</option>
+                    <option value="7">第7次测试</option>
+                    <option value="8">第8次测试</option>
+                </select>
+            </div>
+            <button id="startBtn" class="btn btn-primary">开始测试</button>
+            <div class="note">
+                <p><small>注：每次测试约有70%的单词来自前一次测试，30%为新词</small></p>
+            </div>
+        </div>
+
+        <!-- Test Screen -->
+        <div id="testScreen" class="screen">
+            <div class="progress-bar">
+                <div class="progress-info">
+                    <span>进度: <span id="currentWord">1</span> / 20</span>
+                    <span>当前分数: <span id="currentScore">0</span></span>
+                </div>
+                <div class="progress-track">
+                    <div id="progressFill" class="progress-fill" style="width: 5%"></div>
+                </div>
+            </div>
+
+            <div class="word-card">
+                <div class="speaker-container">
+                    <button id="audioBtn" class="speaker-btn" title="播放发音">
+                        <svg width="80" height="80" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/>
+                        </svg>
+                    </button>
+                    <p class="hint">点击喇叭听单词发音</p>
+                </div>
+
+                <div class="input-container">
+                    <input type="text" id="wordInput" class="word-input" placeholder="输入您听到的单词..." autocomplete="off">
+                    <button id="submitBtn" class="btn btn-submit">提交</button>
+                </div>
+
+                <div id="feedback" class="feedback hidden">
+                    <div class="feedback-icon"></div>
+                    <div class="feedback-text"></div>
+                    <div id="correctAnswer" class="correct-answer"></div>
+                </div>
+
+                <button id="nextBtn" class="btn btn-next hidden">下一个 →</button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="screen">
+            <h1>测试完成！</h1>
+            <div class="results-box">
+                <div class="score-display">
+                    <div class="score-number" id="finalScore">0</div>
+                    <div class="score-label">总分 / 100</div>
+                </div>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-label">正确数量</div>
+                        <div class="stat-value" id="correctCount">0</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">错误数量</div>
+                        <div class="stat-value" id="incorrectCount">0</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">正确率</div>
+                        <div class="stat-value" id="accuracy">0%</div>
+                    </div>
+                </div>
+            </div>
+            <div id="wrongAnswers" class="wrong-answers hidden">
+                <h3>需要复习的单词：</h3>
+                <ul id="wrongList"></ul>
+            </div>
+            <div class="action-buttons">
+                <button id="reviewBtn" class="btn btn-secondary">查看详细结果</button>
+                <button id="homeBtn" class="btn btn-primary">返回首页</button>
+            </div>
+        </div>
+
+        <!-- Detailed Results Screen -->
+        <div id="detailedResultsScreen" class="screen">
+            <h1>详细测试结果</h1>
+            <div class="student-info">
+                <p><strong>学号：</strong><span id="detailStudentId"></span></p>
+                <p><strong>测试次数：</strong>第 <span id="detailTestNumber"></span> 次</p>
+                <p><strong>测试时间：</strong><span id="detailTestTime"></span></p>
+            </div>
+            <table class="results-table">
+                <thead>
+                    <tr>
+                        <th>序号</th>
+                        <th>单词</th>
+                        <th>你的答案</th>
+                        <th>结果</th>
+                        <th>得分</th>
+                    </tr>
+                </thead>
+                <tbody id="resultsTableBody"></tbody>
+            </table>
+            <button id="backToResultsBtn" class="btn btn-secondary">返回结果页</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

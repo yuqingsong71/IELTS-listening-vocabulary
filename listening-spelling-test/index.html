@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>雅思听力单词拼写测试</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 开始页面 -->
+        <div id="start-screen" class="screen">
+            <h1>雅思听力单词拼写测试</h1>
+            <p>每次测试20个单词，每个单词5分，满分100分</p>
+
+            <div class="mode-selection">
+                <button id="practice-mode" class="mode-btn active" onclick="selectMode('practice')">
+                    <span class="icon">📖</span>
+                    练习模式
+                </button>
+                <button id="test-mode" class="mode-btn" onclick="selectMode('test')">
+                    <span class="icon">📝</span>
+                    测试模式
+                </button>
+            </div>
+
+            <div class="mode-description">
+                <p id="practice-desc" class="desc active">
+                    <strong>练习模式：</strong>可以多次点击喇叭听发音，立即显示正确答案
+                </p>
+                <p id="test-desc" class="desc">
+                    <strong>测试模式：</strong>仅播放一次发音（模拟雅思），测试结束后显示结果
+                </p>
+            </div>
+
+            <div class="user-input">
+                <label for="student-id">学生编号（可选）:</label>
+                <input type="text" id="student-id" placeholder="如：S001" maxlength="20">
+            </div>
+
+            <button class="start-btn" onclick="startTest()">开始测试</button>
+        </div>
+
+        <!-- 测试页面 -->
+        <div id="test-screen" class="screen hidden">
+            <!-- 顶部信息栏 -->
+            <div class="top-bar">
+                <div class="mode-indicator">
+                    <span id="current-mode-display">练习模式</span>
+                </div>
+                <div class="progress-info">
+                    <span id="word-counter">1/20</span>
+                    <span class="score">
+                        得分: <span id="current-score">0</span>/100
+                    </span>
+                </div>
+                <button class="exit-btn" onclick="exitTest()">退出</button>
+            </div>
+
+            <!-- 主测试区 -->
+            <div class="test-area">
+                <!-- 喇叭图标 -->
+                <div class="speaker-container">
+                    <button id="speaker-btn" class="speaker" onclick="playAudio()" title="点击播放">
+                        🔊
+                    </button>
+                    <span id="play-count" class="play-count"></span>
+                </div>
+
+                <!-- 输入框 -->
+                <div class="input-container">
+                    <input type="text" id="word-input" class="word-input"
+                           placeholder="请输入听到的单词..." autocomplete="off"
+                           onkeypress="handleKeyPress(event)">
+                    <span id="input-hint" class="hint"></span>
+                </div>
+
+                <!-- 确定按钮 -->
+                <button id="submit-btn" class="submit-btn" onclick="submitAnswer()" disabled>
+                    确定
+                </button>
+
+                <!-- 下一个按钮 -->
+                <button id="next-btn" class="next-btn hidden" onclick="nextWord()">
+                    下一个
+                </button>
+            </div>
+
+            <!-- 结果显示区 -->
+            <div id="result-area" class="result-area hidden">
+                <div id="result-icon"></div>
+                <div id="result-message"></div>
+            </div>
+
+            <!-- 当前单词提示 -->
+            <div id="word-hint-area" class="hint-area hidden">
+                <p>当前单词提示：<span id="hint-letters"></span></p>
+            </div>
+        </div>
+
+        <!-- 结果页面 -->
+        <div id="result-screen" class="screen hidden">
+            <h2>测试完成！</h2>
+
+            <div class="result-summary">
+                <div class="score-display">
+                    <div class="score-number" id="final-score">0</div>
+                    <div class="score-label">/100</div>
+                </div>
+
+                <div class="stats">
+                    <div class="stat-item">
+                        <span class="stat-label">正确率:</span>
+                        <span id="accuracy">0%</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">用时:</span>
+                        <span id="total-time">0分0秒</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="detail-list">
+                <h3>详细结果</h3>
+                <div id="word-results" class="word-results"></div>
+            </div>
+
+            <div class="action-buttons">
+                <button class="action-btn primary" onclick="exportResults()">
+                    <span class="icon">📥</span> 导出结果
+                </button>
+                <button class="action-btn" onclick="startNewTest()">
+                    <span class="icon">🔄</span> 再测一次
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

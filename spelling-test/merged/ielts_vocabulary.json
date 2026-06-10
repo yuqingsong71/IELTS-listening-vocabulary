@@ -1,0 +1,6649 @@
+{
+  "total": 1107,
+  "words_count": 1061,
+  "phrases_count": 46,
+  "vocabulary": [
+    {
+      "word": "absence",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "academic",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "accurate",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "achievement",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "acid",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "activated",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "actor",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "adaptation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "adult",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "advance",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "advertising",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "africa",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "afternoon",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "ages",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "agriculture",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "airport",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "alarm",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "all",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "alone",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "ambitions",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "analysis",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "animal",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "animal magic",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "animals",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "annual fee",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "answer phone",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "anxiety",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "apartments",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "app",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "appointment",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "appointments",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "approach",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "approximately",
+      "pos": "adv",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "april",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "art",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "aspirations",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "assessed",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "assessment",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "assistant",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "assumption",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "atlas",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "attack",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "attention",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "attitude",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "aunt",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "automatic",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "avenue",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "average",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "babies",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "baby",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "back",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "background",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "bags",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "balance",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "balcony",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "balloon",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "band",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "bank",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "basic",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "bath",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "bathroom",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "bay",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "beach",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "beaches",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "bed",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "bedsit",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "bees",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "beginners",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "behavior",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "behaviour",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "bicycle",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "bike",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "bikes",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "bilingual",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "bill",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "biology lesson",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "bitterness",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "blog",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "blonde",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "blue",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "board",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "boat",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "bone",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "bones",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "book",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "booking",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "bookshop",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "bookstore",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "boots",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "bottle",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "bottom",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "box",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "brain",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "brake",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "branch",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "break",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "breathing",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "breeding",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "bridge",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "brother in law",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "budget",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "build",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "building",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "bullying",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "business",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "business card",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "butterflies",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "button",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "buy",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "cab",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "cabins",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cafe",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "calories",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "camera",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "canadian",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "canal",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "capital",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "capitalism",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "car",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "car park",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "phrase"
+    },
+    {
+      "word": "card",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "care",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "cash",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "castle",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "catalogue",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "cathedral",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "cattle",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cave",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "caves",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cd",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "center",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "central",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "change",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "character",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "chat",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "cheap",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "check",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "checklist",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "cheese",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "chefs",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cheque",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "children",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "chocolate",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "chocolate bar",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "choices",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "choose",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "christmas day",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "cigar",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cinema",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "circles",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "city",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "city centre",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "clapping",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "clarinet",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "class",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "classical",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "classical music",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "classification",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "classroom",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "clay",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "cleaner",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "clear",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "clear voice",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "cliffs",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "climate",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "climb",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "clothes",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "clothing",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "clouds",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cloudy",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "club",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "clubhouse",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "clubs",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "coal",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "coconut",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "code",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "coffee",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cognitive",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "coins",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "collect",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "collecting",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "collection",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "college",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "colony",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "color",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "colour",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "combination",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "come",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "comets",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "comfortable",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "common",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "communication",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "competition",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "complete",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "complex",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "complicated",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "computer",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "concert",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "concrete",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "conditioner",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "conference",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "confidence",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "confident",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "confusion",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "conservation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "considerably",
+      "pos": "adv",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "constant",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "consumer",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "consumption",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "contact",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "container",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "control",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "convenient",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "conversation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "cooker",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cooking",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "cooks",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "cooperate",
+      "pos": "v",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "cooperation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "correction",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "cost",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "cottage",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "count",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "country",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "course",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "creation",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "creativeness",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "creativity",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "creature",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "credit",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "crime",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "crisis",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "crow",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "crying",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "crystal",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "culture",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "current",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "curtains",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "curved",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "customer",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "customers",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "cycling",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "damage",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "damp",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "dance",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "dances",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "dancing",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "dangerous",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "dark",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "data",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "database",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "day",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "day off",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "phrase"
+    },
+    {
+      "word": "dead",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "decade",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "december",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "decline",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "declining",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "decorate",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "decoration",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "decrease",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "delay",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "deliveries",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "demand",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "democratic",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "dentist",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "department",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "deposit",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "depression",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "description",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "desert",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "design",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "desks",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "destinations",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "destruction",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "detail",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "development",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "diameter",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "diary",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "dictionary",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "diet",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "dining",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "dinner",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "direction",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "disabled",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "discount",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "discs",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "discussion",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "disease",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "distance",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "distortion",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "disturbing",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "diversity",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "doctor",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "dog",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "dogs",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "domestic life",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "door",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "door-to-door",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "drawings",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "drink",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "drone",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "drop-off",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "dry",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "duck",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "dust",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "ear",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "eating",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "economic",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "edit",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "education",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "education system",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "effect",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "effectively",
+      "pos": "adv",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "egg",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "electrician",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "electricity",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "electronic",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "email",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "embassy",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "emotions",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "employment",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "endangered",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "energy",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "engineer",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "english",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "entertainment",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "entry",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "environment",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "equipment",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "erosion",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "escape",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "europe",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "evaluate",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "evening",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "evidence",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "exchanges",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "exhibition",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "expansion",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "experience",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "experiment",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "eyes",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "facility",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "factories",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "factory",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "fall",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "families",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "family",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "farm",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "fat",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "father",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "feathers",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "feed",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "feedback",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "feeding",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "feelings",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "fees",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "feet",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "female",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fence",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fences",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "ferry",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fertilisers",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "fertilizers",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "festivals",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "field",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fifteen",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "film",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "filter",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "finance",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "finger",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fire",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "firewood",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "fish",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "fishing",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "fishing industry",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "fit",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "fitness",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "flag",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "flexible",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "flight",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "flooding",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "floor",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fluent",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "flute",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "focus",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "food",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "footbridge",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "forest",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "formal",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fountain",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "frame",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "free entry",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "free meal",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "freedom",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "frequency",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "friday",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "fridge",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "friend",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "frog",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "fuel",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "full",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "full-time",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "furniture",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "gallery",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "games",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "garage",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "garden",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "gardening",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "gardens",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "gates",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "gather",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "gender",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "gene",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "general",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "gift shop",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "glass",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "glasses",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "global",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "gloves",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "go",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "golden",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "grammar",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "grandmother",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "grandparents",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "grant",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "graph",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "graphic",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "grass",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "grasses",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "great",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "green",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "ground",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "group",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "groups",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "growth",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "guest",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "guests",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "guide",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "guided tour",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "habit",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "hair",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "hairdresser",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "half",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "hall",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "hand",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "handbag",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "handout",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "harbor",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "harbour",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "hard",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "head",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "health",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "health problems",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "healthy",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "hearing",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "heart",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "heavy",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "helicopters",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "helmet",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "hill",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "history",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "holiday",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "home",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "horse",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "horses",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "hospital",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "hostel",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "hotel",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "hotels",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "house",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "human",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "humans",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "humid",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "hunting",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "ice",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "ideas",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "identification",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "identity",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "illegal",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "image",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "impact",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "in advance",
+      "pos": "phr",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "incineration",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "income",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "individual",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "industry",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "information",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "injury",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "innovation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "insects",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "instrument",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "instruments",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "insulation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "insurance",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "intact",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "intensive",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "interest",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "interest rates",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "intermedia",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "international",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "international house",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "internet",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "interview",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "investment",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "irrigation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "island",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "islands",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "isolation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "issues",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "item",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "jacket",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "jazz",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "jeans",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "jobs",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "joining",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "journalist",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "journalists",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "july",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "june",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "keep fit",
+      "pos": "phr",
+      "difficulty": 3,
+      "type": "phrase"
+    },
+    {
+      "word": "king",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "kitchen",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "knee",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "knife",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "knowledge",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "laboratory",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "ladder",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "lake",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "lamp",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "lamps",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "language",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "laptop",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "late",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "leader",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "leaders",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "leadership",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "leaf",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "learn",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "leather",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "lecture",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "leg",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "levels",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "library",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "lifting",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "light",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "lighting",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "lights",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "lion",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "liter",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "litre",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "litter",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "lively",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "living",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "local",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "local craftsman",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "location",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "locker",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "logic",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "logo",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "long",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "low",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "low risk",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "phrase"
+    },
+    {
+      "word": "lunch",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "machines",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "magic",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "main hall",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "male",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "mammals",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "management",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "manager",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "map",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "maps",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "march",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "market",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "market share",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "marketing",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "mass",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "material",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "math",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "mathematics",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "maths",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "mature",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "may",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "meal",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "measurement",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "meat",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "media",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "media room",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "mediator",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "medical",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "medication",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "meditation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "meetings",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "melon",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "memory",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "message",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "metal",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "method",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "microphone",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "mid-day",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "migration",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "military",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "minerals",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "minibus",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "minutes",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "missed",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "model",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "modern",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "module",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "moist",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "monday",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "money",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "monkeys",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "month",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "monthly",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "monument",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "moon",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "morning",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "mother",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "motivation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "mountains",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "mouths",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "move",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "movement",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "mover",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "movie",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "mud",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "museum",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "music",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "name",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "national holidays",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "nature",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "nearest",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "neck",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "negative",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "nest",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "network",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "networks",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "new",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "newsletter",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "newspaper",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "newspapers",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "night",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "noise",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "noises",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "noisy",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "north-west",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "northern",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "note-taking",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "notice",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "november",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "numbers",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "nursery",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "nursing",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "nutrients",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "obesity",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "observation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "ocean",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "oceans",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "october",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "office",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "oil",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "old",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "older",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "olympics",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "online",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "opera",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "opportunity",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "ordinary",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "outdoor",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "outline",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "outside",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "overdue",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "oxygen",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "pack",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "page",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "paper",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "paragraph",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "park",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "parking",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "parking lot",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "partner",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "pass",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "passport",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "patients",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "patterns",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "payment",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "peak",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "pencil",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "people",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "perfume",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "permanent",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "personal",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "personality",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "persuade",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "pet",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "phone",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "photo",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "photo card",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "photograph",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "photographs",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "photos",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "physics",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "pianist",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "piano player",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "picnic",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "picture",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "pictures",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "piece",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "places",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "plan",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "planned",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "plant",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "plants",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "plastic",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "plates",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "platform",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "play",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "playground",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "plot",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "podcast",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "poetry",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "poison",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "police",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "political",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "politics",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "pollution",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "pool",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "poor",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "port",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "postbox",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "poster",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "posters",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "poverty",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "power",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "practical",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "practice",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "practise",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "predators",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "predictable",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "prediction",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "pregnant",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "presentation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "preservation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "press",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "price",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "prices",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "primary",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "primary school",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "prince",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "printer",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "priorities",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "private",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "prize",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "problem",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "problems",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "profession",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "profit",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "project",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "protection",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "protein",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "publication",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "purple",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "purpose",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "put",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "puzzle",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "quality",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "quarter",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "questionnaire",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "quiz",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "races",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "rain",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "rats",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "reading",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "reasonable",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "receptionist",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "recording",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "records",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "recovery",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "rectangular",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "red",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "reduce",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "reference",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "refreshment",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "regulation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "relative",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "relatives",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "reliable",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "repeated",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "report writing",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "reporters",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "reproduction",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "reputation",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "research",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "researcher",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "reservation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "reserve",
+      "pos": "v",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "residence",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "resources",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "resources room",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "respect",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "responsibility",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "restaurant",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "restriction",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "return",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "review",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "reviews",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "risk",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "river",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "riverside",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "road",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "roads",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "robbery",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "rock",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "roof",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "room",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "roots",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "rose",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "rose garden",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "roses",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "rough",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "round",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "route",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "rubber",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "running",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "safe",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "safety",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "safety rules",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "salad bar",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "sale",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "salt",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "samphire",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "sand",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "satisfactory",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "scarf",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "schedule",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "school",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "science",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "scientist",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "screen",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sea",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "sea level",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "phrase"
+    },
+    {
+      "word": "seafood",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "seaweed",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "secondary",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "security",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "see",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "seed",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "select",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "self",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "self-employed",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "send",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "sense",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "september",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "service",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "set",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "settlement",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "sex",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "shaded",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "shady",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "shape",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "shared",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sharp",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sheep",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "shelter",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "ship",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "shirts",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "shoes",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "shopping",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "shops",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "short",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "shoulder",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "shoulders",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "shower",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "showroom",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "side effects",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "sides",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sign",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "signed",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "silent",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "simple",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "situational",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "size",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "skills",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sky",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "slang",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "slavery",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "slaves",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "slides",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "small",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "smartphone",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "smartphones",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "smell",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "smile",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "snack",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "snakes",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "social",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "socialise",
+      "pos": "v",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "socialize",
+      "pos": "v",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "society",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "software",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "soil",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "solar",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "son",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "sound",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sounds",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "south",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "space",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "spanish",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "specialise",
+      "pos": "v",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "specialist",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "speech",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "speed",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "spice",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "spoons",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "spring",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "stadium",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "staff",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "stage",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "stamps",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "standard",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "statement",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "station",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "statistics",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "steam",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "steps",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "stolen",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "stone",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "storage",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "store",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "storms",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "story",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "strain",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "strangers",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "strawberry",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "stream",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "street",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "stress",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "string",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "structural",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "structure",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "structures",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "student",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "student support",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "studio",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "study",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "style",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sugar",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "suit",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "suits",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sunday",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "sunshade",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "superiority",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "supermarket",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "supervise",
+      "pos": "v",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "support",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "surface",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "survey",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "survival",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "swimming",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "system",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "table",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "tail",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tailor",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "talk",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tape",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "taps",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tasks",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "taste",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "tax",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "taxation",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "taxi",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tea",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "teacher",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "teaching",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "team",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "team leader",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "technical",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "technology",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "teenagers",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "telegraph",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "telephone",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "temperature",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "temperatures",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "temple",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "temporary",
+      "pos": "adj",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "tennis",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "tent",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "term",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tests",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "textbook",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "textile",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "theater",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "theatre",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "theme",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "therapy",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "thermometer",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "think quickly",
+      "pos": "phr",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "thousands",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "thursday",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "ticket",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "tickets",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "tide",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tidy",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tiger",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "time",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "timetable",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "timing",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "together",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "tongue",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "tool",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tools",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "toothpaste",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "top",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "topic",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "touching",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "tour",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tourism",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "tower",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "town",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tracking",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "traditional",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "traffic",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "train",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "training",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "trains",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "transport",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "transportation",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "travel",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "travelling",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "tree",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "trees",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "trust",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "tube",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "tuesday",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "tutor",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "unaware",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "undersea",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "uniform",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "unit",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "universities",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "university",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "unnecessary",
+      "pos": "adj",
+      "difficulty": 5,
+      "type": "word"
+    },
+    {
+      "word": "urban",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "vacation",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "variety",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "vegan",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "vegetarian",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "view",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "viewing",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "viewpoint",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "village",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "violin",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "visible",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "vision",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "visions",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "visitors",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "vitamins",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "vocabulary",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "voice",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "waist",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "wait",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "waiter",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "walking",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "wall",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "walls",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "waste",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "water",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "water level",
+      "pos": "n",
+      "difficulty": 5,
+      "type": "phrase"
+    },
+    {
+      "word": "waterfall",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "wealth",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "wealthy",
+      "pos": "adj",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "weapons",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "weather",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "wednesday",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "wednesdays",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "week",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "weekend",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "weight",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "west",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "wet",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "whale",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "wheel",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "white",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "whole",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "wide",
+      "pos": "adj",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "wifi",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "windows",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "windy",
+      "pos": "adj",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "wine",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "wings",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "winter",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "wire",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "women",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "wood",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "work",
+      "pos": "v",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "workbooks",
+      "pos": "n",
+      "difficulty": 4,
+      "type": "word"
+    },
+    {
+      "word": "working",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "workshop",
+      "pos": "n",
+      "difficulty": 3,
+      "type": "word"
+    },
+    {
+      "word": "world",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "worst",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "write",
+      "pos": "v",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "yellow",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "yoga",
+      "pos": "n",
+      "difficulty": 1,
+      "type": "word"
+    },
+    {
+      "word": "young",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    },
+    {
+      "word": "youth",
+      "pos": "n",
+      "difficulty": 2,
+      "type": "word"
+    }
+  ]
+}

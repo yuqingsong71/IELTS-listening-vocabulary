@@ -1,0 +1,70 @@
+================================================================================
+雅思听力填空题词库统计报告
+================================================================================
+
+总体统计:
+  总词条数: 1107
+  单词数: 1061
+  词组数: 46
+
+词性分布:
+  形容词: 105
+  副词: 3
+  名词: 946
+  短语: 3
+  动词: 50
+
+难度分布:
+  难度1: 190
+  难度2: 362
+  难度3: 280
+  难度4: 168
+  难度5: 107
+
+词组列表及词性:
+  - animal magic	(名词)
+  - annual fee	(名词)
+  - answer phone	(名词)
+  - biology lesson	(名词)
+  - brother in law	(名词)
+  - business card	(名词)
+  - car park	(名词)
+  - chocolate bar	(名词)
+  - christmas day	(名词)
+  - city centre	(名词)
+  - classical music	(名词)
+  - clear voice	(名词)
+  - day off	(名词)
+  - domestic life	(名词)
+  - education system	(名词)
+  - fishing industry	(名词)
+  - free entry	(名词)
+  - free meal	(名词)
+  - gift shop	(名词)
+  - guided tour	(名词)
+  - health problems	(名词)
+  - in advance	(短语)
+  - interest rates	(名词)
+  - international house	(名词)
+  - keep fit	(短语)
+  - local craftsman	(名词)
+  - low risk	(名词)
+  - main hall	(名词)
+  - market share	(名词)
+  - media room	(名词)
+  - national holidays	(名词)
+  - parking lot	(名词)
+  - photo card	(名词)
+  - piano player	(名词)
+  - primary school	(名词)
+  - report writing	(名词)
+  - resources room	(名词)
+  - rose garden	(名词)
+  - safety rules	(名词)
+  - salad bar	(名词)
+  - sea level	(名词)
+  - side effects	(名词)
+  - student support	(名词)
+  - team leader	(名词)
+  - think quickly	(短语)
+  - water level	(名词)

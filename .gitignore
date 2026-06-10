@@ -1,0 +1,11 @@
+# Excel files (binary, too large for git)
+*.xlsx
+*.xls
+
+# Word documents
+*.docx
+*.doc
+
+# Python cache
+__pycache__/
+*.pyc
